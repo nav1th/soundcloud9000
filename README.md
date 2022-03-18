@@ -56,7 +56,7 @@ See [this comment](https://github.com/grobie/soundcloud2000/issues/96#issuecomme
 ### Debian / Ubuntu
 
 ```bash
-apt-get install portaudio19-dev libmpg123-dev libncurses-dev ruby1.9.1-dev
+apt-get install portaudio19-dev libmpg123-dev libncurses-dev ruby-dev
 gem install soundcloud9000
 ```
 
